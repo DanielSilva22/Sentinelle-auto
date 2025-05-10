@@ -1,1 +1,0 @@
-# Génération PDF (placeholder)
